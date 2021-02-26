@@ -2,3 +2,4 @@ charizar
 pikachu
 squirtle
 Alakazam
+vulpis
